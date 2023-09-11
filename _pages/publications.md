@@ -4,9 +4,6 @@ permalink: /publications/
 title: publications
 description: 
 nav: true
-nav_order: 3
+nav_order: 4
 ---
 
-<p><strong> The role of hydrophobic molecules in the optoelectronical attributes of triple-cation perovskite </strong> <br /> <strong> solar cells </strong> <br /> Mahnaz Mozaffari, Abbas Behjat, Mohammad Ali Haddad, Ali Benvidi <br /> Synthetic Metals, 295, 17323, 2023.</p>
-
-<p><strong> The role of hydrophobic molecules in the optoelectronical attributes of triple-cation perovskite </strong> <br /> <strong> solar cells </strong> <br /> Mahnaz Mozaffari, Abbas Behjat, Mohammad Ali Haddad, Ali Benvidi <br /> Synthetic Metals, 295, 17323, 2023.</p>
