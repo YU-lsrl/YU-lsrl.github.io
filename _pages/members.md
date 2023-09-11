@@ -18,6 +18,14 @@ nav_order: 2
 <table style="width: 100%; margin-right: calc(2%);">
 <tbody>
 <tr>
+<td style="width: 30.0%;">{% include figure.html path="assets/img/mkt.jpg" title="example image" width="200" height="200" class="img-fluid rounded z-depth-1" %}</td>
+<td style="width: 70%;"><strong>Prof. dr. Mohammad Kazem Tavassoli</strong><br />Professor of Atomic and Molecular Physics<br />Research Topic: Quantum Optics and Quantum technology<br />Email: <a href="mailto:mktavassoly@yazd.ac.ir">mktavassoly@yazd.ac.ir</a><br />Now@ LSRL</td>
+</tr>
+</tbody>
+</table>
+<table style="width: 100%; margin-right: calc(2%);">
+<tbody>
+<tr>
 <td style="width: 30%;">{% include figure.html path="assets/img/mah.jpg" title="example image" width="200" height="200" class="img-fluid rounded z-depth-1" %}</td>
 <td style="width: 70%;"><strong>Dr. Mohammad Ali Haddad</strong><br />Assistant professor of Atomic and Molecular Physics<br />Research Topic: Laser spectroscopy and Nonlinear optics<br />Email: <a href="mailto:mahaddad@yazd.ac.ir">mahaddad@yazd.ac.ir</a><br />Now@ LSRL</td>
 </tr>
