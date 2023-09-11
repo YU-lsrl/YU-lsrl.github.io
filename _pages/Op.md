@@ -13,7 +13,7 @@ nav_order: 3
 <p style="text-align: justify;">Candidates should send a letter of motivation, a cv, and contact details of at least two referees by email to of one the following scientific directors:</p>
 <p style="text-align: justify;">Prof. Dr. Abbas Behjat (email:&nbsp;<a href="mailto:abehjat@yazd.ac.ir">abehjat@yazd.ac.ir</a>&nbsp;)</p>
 <p style="text-align: justify;">Prof. Dr. Mohammad Kazem Tavassoli (email:&nbsp;<a href="mailto:mktavassoly@yazd.ac.ir">mktavassoly@yazd.ac.ir</a>&nbsp;)</p>
-<p style="text-align: justify;">Dr. Mohammad Hossein Memearian (email:&nbsp;<a href="mailto:memarian@yazd.ac.ir">memarian@yazd.ac.ir</a>&nbsp;)</p>
+<p style="text-align: justify;">Dr. Mohammad Hossein Memarian (email:&nbsp;<a href="mailto:memarian@yazd.ac.ir">memarian@yazd.ac.ir</a>&nbsp;)</p>
 <p style="text-align: justify;">Dr. Mohammad Ali Haddad&nbsp; (email:&nbsp;<a href="mailto:mahaddad@yazd.ac.ir">mahaddad@yazd.ac.ir</a>&nbsp;)</p>
 <p style="text-align: justify;">&nbsp;</p>
    
