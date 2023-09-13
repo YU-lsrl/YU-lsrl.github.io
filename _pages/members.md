@@ -129,7 +129,7 @@ nav_order: 2
 environmental science<br />Email:&nbsp;<br />Now @&nbsp;LSRL</td>
 </tr>
 <tr>
-<td style="width: 30%;">{% include figure.html path="assets/img/zsh.jpg" title="example image" width="200" height="200" class="img-fluid rounded z-depth-1" %}</td>
+<td style="width: 30%;">{% include figure.html path="assets/img/zsh.png" title="example image" width="200" height="200" class="img-fluid rounded z-depth-1" %}</td>
 <td style="width: 70%;"><strong>Zahra Sharbab</strong><br />Master&nbsp;in Atomic and Molecular Physics (2019&nbsp;to&nbsp;2021)<br />Research Topic: Deep Photometry of Group Galaxies Using Iranian National Observatory Lens
 Array (INOLA) &nbsp;...<br />Email:&nbsp;samaeh.sharbaf2@yahoo.com<br />Now @&nbsp;Instituto de Astrofísica de Canarias (IAC), Spain</td>
 </tr>
@@ -138,7 +138,7 @@ Array (INOLA) &nbsp;...<br />Email:&nbsp;samaeh.sharbaf2@yahoo.com<br />Now @&nb
 <td style="width: 70%;"><strong>Roghayeh Izan</strong><br />Master&nbsp;in Atomic and Molecular Physics (2019&nbsp;to&nbsp;2021)<br />Research Topic: Applied spectroscopy in oil industry<br />Email:&nbsp;roghaye.izan2017@yahoo.com<br />Now @&nbsp;LSRL</td>
 </tr>
 <tr>
-<td style="width: 30%;">{% include figure.html path="assets/img/st.jpg" title="example image" width="200" height="200" class="img-fluid rounded z-depth-1" %}</td>
+<td style="width: 30%;">{% include figure.html path="assets/img/sr.jpg" title="example image" width="200" height="200" class="img-fluid rounded z-depth-1" %}</td>
 <td style="width: 70%;"><strong>Samane Raji</strong><br />Master&nbsp;in Atomic and Molecular Physics (2018 to&nbsp;2020)<br />Research Topic: Nonlinear Optics application in medical diagnostics <br />Email:samaneraji@gmail.com;<br />Now @&nbsp;Valadolid University, Spain</td>
 </tr>
 <tr>
