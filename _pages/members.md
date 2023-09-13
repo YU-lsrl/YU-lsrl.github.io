@@ -97,7 +97,7 @@ nav_order: 2
 </tr>
 <tr>
 <td style="width: 30%;">&nbsp;{% include figure.html path="assets/img/LSRL.jpg" title="example image" width="200" height="200" class="img-fluid rounded z-depth-1" %}</td>
-<td style="width: 70%;"><strong>Fatemeh Zare</strong><br />Master&nbsp;student in polymer engineering (Graduated:2023)<br />Research Topic:&nbsp;Graphene application in polymer science<br />Supervisor: Dr. Gholami/Advisor:&nbsp;Dr. M.Ali Haddad</td>
+<td style="width: 70%;"><strong>Fatemeh Zare</strong><br />Master&nbsp;student in polymer engineering (Graduated:2023)<br />Research Topic:&nbsp;Graphene application in polymer science<br />Supervisor: Dr. M. Tavakkoli/Advisor:&nbsp;Dr. M.Ali Haddad</td>
 </tr>
 <tr>
 <td style="width: 30%;">&nbsp;{% include figure.html path="assets/img/LSRL.jpg" title="example image" width="200" height="200" class="img-fluid rounded z-depth-1" %}</td>
