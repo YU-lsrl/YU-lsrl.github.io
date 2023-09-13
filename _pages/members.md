@@ -143,7 +143,7 @@ nav_order: 2
 </tr>
 <tr>
 <td style="width: 30%;">{% include figure.html path="assets/img/paa.jpg" title="example image" width="200" height="200" class="img-fluid rounded z-depth-1" %}</td>
-<td style="width: 70%;"><strong>Pedram Ashofteh Ardakani</strong><br />Master&nbsp;student in atomic and molecular physics (2018&nbsp;to&nbsp;2020)<br />Research Topic: Design study of a laser spectrometer using multipass cells<br />Supervisor: Dr. M. Ali Haddad /Advisor:&nbsp;Prof. dr. Abbas Behjat<br />Email:&nbsp;<a href="mailto:pedramardakani@pm.me"><span style="font-weight: 400;">pedramardakani@pm.me</span></a><br />Now @ Software Developer at the GNU Project (Boston, Massachusetts, United States - Remote) and the Iranian National Observatory (Tehran, Iran - Remote)&nbsp;LSRL</td>
+<td style="width: 70%;"><strong>Pedram Ashofteh Ardakani</strong><br />Master&nbsp;student in atomic and molecular physics (2018&nbsp;to&nbsp;2020)<br />Research Topic: Design study of a laser spectrometer using multipass cells<br />Supervisor: Dr. M. Ali Haddad /Advisor:&nbsp;Prof. dr. Abbas Behjat<br />Email:&nbsp;<a href="mailto:pedramardakani@pm.me">pedramardakani@pm.me</a><br />Now @ Software Developer at the GNU Project (Boston, Massachusetts, United States - Remote) and the Iranian National Observatory (Tehran, Iran - Remote)&nbsp;LSRL</td>
 </tr>
 <tr>
 <td style="width: 30%;">{% include figure.html path="assets/img/LSRL.jpg" title="example image" width="200" height="200" class="img-fluid rounded z-depth-1" %}</td>
