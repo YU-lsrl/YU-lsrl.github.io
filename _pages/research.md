@@ -3,8 +3,8 @@ layout: page
 permalink: /reseach/
 title: research
 description: 
-nav: true
-nav_order: 4
+nav: false
+nav_order: 3
 ---
 
 <p>&nbsp;</p>
