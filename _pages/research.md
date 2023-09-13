@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /reseach/
-title: research and projects
+title: research
 description: 
 nav: true
 nav_order: 4
