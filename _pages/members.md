@@ -46,11 +46,11 @@ nav_order: 2
 <tbody>
 <tr>
 <td style="width: 30%;">{% include figure.html path="assets/img/LSRL.jpg" title="example image" width="200" height="200" class="img-fluid rounded z-depth-1" %}</td>
-<td style="width: 70%;"><strong>Ebrahim Ghasemian</strong><br />Ph.D student in Atomic and Molecular Physics&nbsp;<br />Research Topic:&nbsp;<br />Email:&nbsp;<br />Now @&nbsp;Rafsanjan University</td>
+<td style="width: 70%;"><strong>Ebrahim Ghasemian</strong><br />Ph.D student in Atomic and Molecular Physics&nbsp;<br />Research Topic: Quatum optics<br />Email:&nbsp;<br />Now @Rafsanjan University</td>
 </tr>
 <tr>
 <td style="width: 30.018%;">{% include figure.html path="assets/img/LSRL.jpg" title="example image" width="200" height="200" class="img-fluid rounded z-depth-1" %}</td>
-<td style="width: 69.982%;"><strong>Mahnaz Mozaffari</strong><br />Ph.D student in Atomic and Molecular Physics&nbsp;<br />Research Topic: Solar cells<br />Email: <a href="mailto:mahnaz.mozaffari@stu.yazd.ac.ir">mahnaz.mozaffari@stu.yazd.ac.ir</a><br />Now @&nbsp;Rafsanjan University</td>
+<td style="width: 69.982%;"><strong>Mahnaz Mozaffari</strong><br />Ph.D student in Atomic and Molecular Physics&nbsp;<br />Research Topic: Solar cells<br />Email: <a href="mailto:mahnaz.mozaffari@stu.yazd.ac.ir">mahnaz.mozaffari@stu.yazd.ac.ir</a><br />Now @LSRL</td>
 </tr>
 <tr>
 <td style="width: 30%;">{% include figure.html path="assets/img/LSRL.jpg" title="example image" width="200" height="200" class="img-fluid rounded z-depth-1" %}</td>
@@ -58,7 +58,7 @@ nav_order: 2
 </tr>
 <tr>
 <td style="width: 30.0%;">{% include figure.html path="assets/img/as.jpg" title="example image" width="200" height="200" class="img-fluid rounded z-depth-1" %}</td>
-<td style="width: 70%;"><strong>Abolfazl Sajedi</strong><br />Ph.D student in Atomic and Molecular Physics (2022 to now)<br />Research Topic: Nonlinear Optics<br />Email: <a href="mailto:sajedi_abolfazl@yahoo.com">sajedi_abolfazl@yahoo.com</a><br />Now @&nbsp;LSRL</td>
+<td style="width: 70%;"><strong>Abolfazl Sajedi</strong><br />Ph.D student in Optics and Laser Physics (2022 to now)<br />Research Topic: Nonlinear Optics and Optical limiter devices <br />Email: <a href="mailto:sajedi_abolfazl@yahoo.com">sajedi_abolfazl@yahoo.com</a><br />Now @&nbsp;LSRL</td>
 </tr>
 </tbody>
 </table>
@@ -69,23 +69,23 @@ nav_order: 2
 <tbody>
 <tr>
 <td style="width: 30%;">{% include figure.html path="assets/img/LSRL.jpg" title="example image" width="200" height="200" class="img-fluid rounded z-depth-1" %}</td>
-<td style="width: 70%;"><strong>Mehrnoush Ebadi</strong><br />Master student in Atomic and Molecular Physics (2022 to now)<br />Research Topic:&nbsp;Moire deflectometry&nbsp;of edibale oil<br />Email:&nbsp;<br />Now @&nbsp;LSRL</td>
+<td style="width: 70%;"><strong>Mehrnoush Ebadi</strong><br />Master student in Optics and Laser Physics (2022 to now)<br />Research Topic:&nbsp;nonlinear optics and Moire deflectometry measurment of edibale oil<br />Email:&nbsp;mehrnooshebadi76@gmail.com<br />Now @&nbsp;LSRL</td>
 </tr>
 <tr>
 <td style="width: 30%;">&nbsp;{% include figure.html path="assets/img/kp.jpg" title="example image" width="200" height="200" class="img-fluid rounded z-depth-1" %}</td>
-<td style="width: 70%;"><strong>Kianoush Pakravan</strong><br />Master&nbsp;student in Atomic and Molecular Physics (2022 to now)<br />Research Topic:&nbsp;<span style="font-weight: 400;">Synthesis of Nanoparticles By Laser Ablation In Liquids</span><br />Email:&nbsp;<a href="mailto:kianoush.pakravan@gmail.com"><span style="font-weight: 400;">kianoush.pakravan@gmail.com</span></a><br />Now @&nbsp;LSRL</td>
+<td style="width: 70%;"><strong>Kianoush Pakravan</strong><br />Master student in Optics and Laser Physics (2022 to now)<br />Research Topic:&nbsp;<span style="font-weight: 400;">Synthesis of Nanoparticles By Laser Ablation In Liquids</span><br />Email:&nbsp;<a href="mailto:kianoush.pakravan@gmail.com"><span style="font-weight: 400;">kianoush.pakravan@gmail.com</span></a><br />Now @&nbsp;LSRL</td>
 </tr>
 <tr>
 <td style="width: 30%;">&nbsp;{% include figure.html path="assets/img/mg.jpg" title="example image" width="200" height="200" class="img-fluid rounded z-depth-1" %}</td>
-<td style="width: 70%;"><strong>Moein Golestanfar</strong><br />Master&nbsp;student in Atomic and Molecular Physics (2021 to now)<br />Research Topic: <span style="font-weight: 400;">Nonlinear Optics, Spatial Self-Phase Modulation Technique, Optical Limiting, Laser Ablation</span><br />Email:&nbsp;<span style="font-weight: 400;">mpgolestanifar@gmail.com</span><br />Now @&nbsp;LSRL</td>
+<td style="width: 70%;"><strong>Moein Golestanfar</strong><br />Master student in Optics and Laser Physics (2021 to now)<br />Research Topic: <span style="font-weight: 400;">Nonlinear Optics, Spatial Self-Phase Modulation Technique, Optical Limiting, Laser Ablation</span><br />Email:&nbsp;<span style="font-weight: 400;">mpgolestanifar@gmail.com</span><br />Now @&nbsp;LSRL</td>
 </tr>
 <tr>
 <td style="width: 30%;">&nbsp;{% include figure.html path="assets/img/LSRL.jpg" title="example image" width="200" height="200" class="img-fluid rounded z-depth-1" %}</td>
-<td style="width: 70%;"><strong>Elham Heidary</strong><br />Master&nbsp;student in Atomic and Molecular Physics (2020&nbsp;to now)<br />Research Topic: Nonlinear Optics and quantum dots<br />Email:&nbsp;<br />Now @&nbsp;LSRL</td>
+<td style="width: 70%;"><strong>Elham Heidary</strong><br />Master student in Optics and Laser Physics (2020&nbsp;to now)<br />Research Topic: Experimental study of nonlinear optical properties and optical limiting of quantum dots in thermal regime<br />Email:&nbsp;<br />Now @&nbsp;LSRL</td>
 </tr>
 <tr>
 <td style="width: 30%;">&nbsp;{% include figure.html path="assets/img/LSRL.jpg" title="example image" width="200" height="200" class="img-fluid rounded z-depth-1" %}</td>
-<td style="width: 70%;"><strong>Rezvan Babamir</strong><br />Master&nbsp;student in Atomic and Molecular Physics (2020to now)<br />Research Topic:&nbsp;Applied spectrsocopy (LIBs Spectrsocopy of kidney stones)<br />Email:&nbsp;<br />Now @&nbsp;LSRL</td>
+<td style="width: 70%;"><strong>Rezvan Babamir</strong><br />Master student in Optics and Laser Physics (2020to now)<br />Research Topic:&nbsp;Elemental analysis of kidney stones using laser based spectroscopic technique<br />Email:&nbsp;<br />Now @&nbsp;LSRL</td>
 </tr>
 <tr>
 <td style="width: 30%;">&nbsp;{% include figure.html path="assets/img/nt.jpg" title="example image" width="200" height="200" class="img-fluid rounded z-depth-1" %}</td>
@@ -124,20 +124,22 @@ nav_order: 2
 <td style="width: 70%;"><strong>Mohammad Javad Moradi</strong><br />Master&nbsp;in Atomic and Molecular Physics (2020 to 2022)<br />Research Topic: Nonlinear Optics<br />Email:&nbsp;<br />Now @&nbsp;LSRL</td>
 </tr>
 <tr>
-<td style="width: 30%;">{% include figure.html path="assets/img/LSRL.jpg" title="example image" width="200" height="200" class="img-fluid rounded z-depth-1" %}</td>
-<td style="width: 70%;"><strong>Nafiseh Seddighi</strong><br />Master&nbsp;in Atomic and Molecular Physics (2019 to 2021)<br />Research Topic:&nbsp;Applied spectroscopy in environmental science<br />Email:&nbsp;<br />Now @&nbsp;LSRL</td>
+<td style="width: 30%;">{% include figure.html path="assets/img/ns.jpg" title="example image" width="200" height="200" class="img-fluid rounded z-depth-1" %}</td>
+<td style="width: 70%;"><strong>Nafiseh Seddighi</strong><br />Master&nbsp;in Atomic and Molecular Physics (2019 to 2021)<br />Research Topic:&nbsp;Applied spectroscopy in
+environmental science<br />Email:&nbsp;<br />Now @&nbsp;LSRL</td>
 </tr>
 <tr>
-<td style="width: 30%;">{% include figure.html path="assets/img/LSRL.jpg" title="example image" width="200" height="200" class="img-fluid rounded z-depth-1" %}</td>
-<td style="width: 70%;"><strong>Zahra Sharbab</strong><br />Master&nbsp;in Atomic and Molecular Physics (2019&nbsp;to&nbsp;2021)<br />Research Topic:&nbsp;...<br />Email:&nbsp;<br />Now @&nbsp;LSRL</td>
+<td style="width: 30%;">{% include figure.html path="assets/img/zsh.jpg" title="example image" width="200" height="200" class="img-fluid rounded z-depth-1" %}</td>
+<td style="width: 70%;"><strong>Zahra Sharbab</strong><br />Master&nbsp;in Atomic and Molecular Physics (2019&nbsp;to&nbsp;2021)<br />Research Topic: Deep Photometry of Group Galaxies Using Iranian National Observatory Lens
+Array (INOLA) &nbsp;...<br />Email:&nbsp;samaeh.sharbaf2@yahoo.com<br />Now @&nbsp;Instituto de Astrofísica de Canarias (IAC), Spain</td>
 </tr>
 <tr>
-<td style="width: 30%;">{% include figure.html path="assets/img/LSRL.jpg" title="example image" width="200" height="200" class="img-fluid rounded z-depth-1" %}</td>
-<td style="width: 70%;"><strong>Roghayeh Izan</strong><br />Master&nbsp;in Atomic and Molecular Physics (2019&nbsp;to&nbsp;2021)<br />Research Topic: Applied spectroscopy<br />Email:&nbsp;<br />Now @&nbsp;LSRL</td>
+<td style="width: 30%;">{% include figure.html path="assets/img/re.jpg" title="example image" width="200" height="200" class="img-fluid rounded z-depth-1" %}</td>
+<td style="width: 70%;"><strong>Roghayeh Izan</strong><br />Master&nbsp;in Atomic and Molecular Physics (2019&nbsp;to&nbsp;2021)<br />Research Topic: Applied spectroscopy in oil industry<br />Email:&nbsp;roghaye.izan2017@yahoo.com<br />Now @&nbsp;LSRL</td>
 </tr>
 <tr>
-<td style="width: 30%;">{% include figure.html path="assets/img/LSRL.jpg" title="example image" width="200" height="200" class="img-fluid rounded z-depth-1" %}</td>
-<td style="width: 70%;"><strong>Samane Raji</strong><br />Master&nbsp;in Atomic and Molecular Physics (2018 to&nbsp;2020)<br />Research Topic: Nonlinear Optics &amp;&nbsp;Applied spectroscopy<br />Email:&nbsp;<br />Now @&nbsp;LSRL</td>
+<td style="width: 30%;">{% include figure.html path="assets/img/st.jpg" title="example image" width="200" height="200" class="img-fluid rounded z-depth-1" %}</td>
+<td style="width: 70%;"><strong>Samane Raji</strong><br />Master&nbsp;in Atomic and Molecular Physics (2018 to&nbsp;2020)<br />Research Topic: Nonlinear Optics application in medical diagnostics <br />Email:samaneraji@gmail.com;<br />Now @&nbsp;Valadolid University, Spain</td>
 </tr>
 <tr>
 <td style="width: 30%;">{% include figure.html path="assets/img/paa.jpg" title="example image" width="200" height="200" class="img-fluid rounded z-depth-1" %}</td>
@@ -145,7 +147,7 @@ nav_order: 2
 </tr>
 <tr>
 <td style="width: 30%;">{% include figure.html path="assets/img/LSRL.jpg" title="example image" width="200" height="200" class="img-fluid rounded z-depth-1" %}</td>
-<td style="width: 70%;"><strong>Homa esmaeili</strong><br />Master&nbsp;in Atomic and Molecular Physics (2017 to&nbsp;2019)<br />Research Topic:&nbsp;Plasma<br />Email:&nbsp;<br />Now @&nbsp;LSRL</td>
+<td style="width: 70%;"><strong>Homa esmaeili</strong><br />Master&nbsp;in Plasma Physics (2017 to&nbsp;2019)<br />Research Topic:&nbsp;Plasma<br />Email:&nbsp;<br />Now @&nbsp;LSRL</td>
 </tr>
 <tr>
 <td style="width: 30%;">{% include figure.html path="assets/img/LSRL.jpg" title="example image" width="200" height="200" class="img-fluid rounded z-depth-1" %}</td>
