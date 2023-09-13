@@ -25,7 +25,7 @@ nav_order: 2
 </table>
 <p>&nbsp;</p>
 <h3><span style="font-size: 20px;"><strong>Collaborators</strong></span></h3>
-<table style="height: 20px; width: 1015px;">
+<table style="width: 100%; margin-right: calc(2%);">
 <tbody>
 <tr>
 <td style="width: 30%;">{% include figure.html path="assets/img/mkt.jpg" title="example image" width="200" height="200" class="img-fluid rounded z-depth-1" %}</td>
@@ -37,35 +37,33 @@ nav_order: 2
 </tr>
 <tr>
 <td style="width: 30%;">{% include figure.html path="assets/img/LSRL.jpg" title="example image" width="200" height="200" class="img-fluid rounded z-depth-1" %}</td>
-<td style="width: 70%;"><strong>Dr.&nbsp;Fatemeh Ostovari<br /></strong>Associate professor of&nbsp;Solid State Physics<br />Research Topic: Atmospheric Physics and Aeronomy<br />Email:&nbsp;<a href="mailto:memarian@yazd.ac.ir">memarian@yazd.ac.ir</a><br />Now @ LSRL</td>
+<td style="width: 70%;"><strong>Dr.&nbsp;Fatemeh Ostovari<br /></strong>Associate professor of&nbsp;Solid State Physics<br />Research Topic: Nano science and 2D nano materials<br />Email:&nbsp;<a href="mailto:ostovari@yazd.ac.ir">ostovari@yazd.ac.ir</a><br />Now @ LSRL</td>
 </tr>
 </tbody>
 </table>
 <p>&nbsp;</p>
 <p><span style="font-size: 20px;"><strong>PhD and Postdocs</strong></span></p>
+<p>&nbsp;</p>
 <table style="width: 100%; margin-right: calc(2%);">
 <tbody>
 <tr>
-<td style="width: 30%;">{% include figure.html path="assets/img/LSRL.jpg" title="example image" width="200" height="200" class="img-fluid rounded z-depth-1" %}</td>
-<td style="width: 70%;">
-<p><strong>Ebrahim Ghasemian</strong><br />Ph.D student in atomic and molecular physics&nbsp;<br />Research Topic:&nbsp;Quantum optics, Quantum computation<br />Supervisor: Prof. dr. M.K. Tavassoli&nbsp;/Advisor: Dr. M.Ali Haddad<br />Email: <a href="mailto:ebrahim.ghasemian@stu.yazd.ir">ebrahim.ghasemian@stu.yazd.ir</a><br />Now @ Rafsanjan University</p>
-</td>
+<td style="width: 30.00%;">{% include figure.html path="assets/img/as.jpg" title="example image" width="200" height="200" class="img-fluid rounded z-depth-1" %}</td>
+<td style="width: 70.00%;"><strong>Abolfazl Sajedi<br /></strong>Ph.D student in optics and laser physics (2022 to now)<br />Research Topic: Nonlinear optics and optical limiter devices<br />Supervisor: Dr. M.Ali Haddad<br />Email:&nbsp;<a href="mailto:sajedi_abolfazl@yahoo.com">sajedi_abolfazl@yahoo.com</a><br />Now @&nbsp;LSRL</td>
 </tr>
 <tr>
-<td style="width: 30.018%;">{% include figure.html path="assets/img/LSRL.jpg" title="example image" width="200" height="200" class="img-fluid rounded z-depth-1" %}</td>
-<td style="width: 69.982%;"><strong>Mahnaz Mozaffari</strong><br />Ph.D student in atomic and molecular physics&nbsp;<br />Research Topic: Solar cells<br />Supervisor:&nbsp;Prof. dr. A. Behjat /Advisor:&nbsp;Dr. M.Ali Haddad<br />Email: <a href="mailto:mahnaz.mozaffari@stu.yazd.ac.ir">mahnaz.mozaffari@stu.yazd.ac.ir</a><br />Now @ LSRL</td>
+<td style="width: 30.00%;">{% include figure.html path="assets/img/LSRL.jpg" title="example image" width="200" height="200" class="img-fluid rounded z-depth-1" %}</td>
+<td style="width: 70.00%;"><strong>Mahnaz Mozaffari</strong><br />Ph.D student in atomic and molecular physics&nbsp;(2020 to now)<br />Research Topic: Solar cells<br />Supervisor:&nbsp;Prof. dr. A. Behjat /Advisor:&nbsp;Dr. M.Ali Haddad<br />Email: <a href="mailto:mahnaz.mozaffari@stu.yazd.ac.ir">mahnaz.mozaffari@stu.yazd.ac.ir</a><br />Now @ LSRL</td>
 </tr>
 <tr>
 <td style="width: 30%;">{% include figure.html path="assets/img/LSRL.jpg" title="example image" width="200" height="200" class="img-fluid rounded z-depth-1" %}</td>
-<td style="width: 70%;"><strong>Banafshe Taji<br /></strong>Ph.D student in plasma physics&nbsp;<br />Research Topic: Atmospheric plasma<br />Supervisor: Dr. M.H. Memarian /Advisor:&nbsp;Dr. M.Ali Haddad<br />Email: <a href="mailto:b.taji@stu.yazd.ac.ir">b.taji@stu.yazd.ac.ir</a><br />Now @&nbsp;LSRL &amp; Deprtment of Plasma Physics (YU)</td>
+<td style="width: 70%;"><strong>Banafshe Taji&nbsp;<br /></strong>Ph.D student in plasma physics&nbsp;(2020&nbsp;to now)<br />Research Topic: Atmospheric plasma<br />Supervisor: Dr. M.H. Memarian /Advisor:&nbsp;Dr. M.Ali Haddad<br />Email: <a href="mailto:b.taji@stu.yazd.ac.ir">b.taji@stu.yazd.ac.ir</a><br />Now @&nbsp;LSRL &amp; Deprtment of Plasma Physics (YU)</td>
 </tr>
 <tr>
-<td style="width: 30.0%;">{% include figure.html path="assets/img/as.jpg" title="example image" width="200" height="200" class="img-fluid rounded z-depth-1" %}</td>
-<td style="width: 70%;"><strong>Abolfazl Sajedi</strong><br />Ph.D student in optics and laser physics (2022 to now)<br />Research Topic: Nonlinear optics and optical limiter devices<br />Supervisor: Dr. M.Ali Haddad<br />Email: <a href="mailto:sajedi_abolfazl@yahoo.com">sajedi_abolfazl@yahoo.com</a><br />Now @&nbsp;LSRL</td>
+<td style="width: 30.0%;">{% include figure.html path="assets/img/LSRL.jpg" title="example image" width="200" height="200" class="img-fluid rounded z-depth-1" %}</td>
+<td style="width: 70%;"><strong>Ebrahim Ghasemian</strong><br />Ph.D student in atomic and molecular physics&nbsp;&nbsp;(2018 to 2022)<br />Research Topic:&nbsp;Quantum optics, Quantum computation<br />Supervisor: Prof. dr. M.K. Tavassoli&nbsp;/Advisor: Dr. M.Ali Haddad<br />Email: <a href="mailto:ebrahim.ghasemian@stu.yazd.ir">ebrahim.ghasemian@stu.yazd.ir</a><br />Now @ Rafsanjan University</td>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
 <p>&nbsp;</p>
 <h2><span style="font-size: 20px;"><strong>Master&rsquo;s Students</strong></span></h2>
 <table style="width: 100%; margin-right: calc(2%);">
@@ -76,7 +74,7 @@ nav_order: 2
 </tr>
 <tr>
 <td style="width: 30%;">&nbsp;{% include figure.html path="assets/img/kp.jpg" title="example image" width="200" height="200" class="img-fluid rounded z-depth-1" %}</td>
-<td style="width: 70%;"><strong>Kianoush Pakravan</strong><br />Master student in Optics and Laser Physics (2022 to now)<br />Research Topic:&nbsp;<span style="font-weight: 400;">Synthesis of nanoparticles by laser ablation in liquids<br />Supervisor: Dr. M.Ali Haddad /Advisor: Prof. dr. A. Behjat</span><br />Email:&nbsp;<a href="mailto:kianoush.pakravan@gmail.com"><span style="font-weight: 400;">kianoush.pakravan@gmail.com</span></a><br />Now @&nbsp;LSRL</td>
+<td style="width: 70%;"><strong>Kianoush Pakravan</strong><br />Master student in Optics and Laser Physics (2022 to now)<br />Research Topic:&nbsp;<span style="font-weight: 400;">Synthesis of nanoparticles by laser ablation in liquids<br />Supervisor: Dr. M.Ali Haddad /Advisor: Prof. dr. A. Behjat</span><br />Email:&nbsp;<a href="mailto:kianoush.pakravan@gmail.com">kianoush.pakravan@gmail.com</a><br />Now @&nbsp;LSRL</td>
 </tr>
 <tr>
 <td style="width: 30%;">&nbsp;{% include figure.html path="assets/img/mg.jpg" title="example image" width="200" height="200" class="img-fluid rounded z-depth-1" %}</td>
@@ -84,7 +82,7 @@ nav_order: 2
 </tr>
 <tr>
 <td style="width: 30%;">&nbsp;{% include figure.html path="assets/img/LSRL.jpg" title="example image" width="200" height="200" class="img-fluid rounded z-depth-1" %}</td>
-<td style="width: 70%;"><strong>Elham Heidary</strong><br />Master student in optics and laser Physics (2020&nbsp;to now)<br />Research Topic: Nonlinear optical properties and optical limiting of quantum dots<br />Supervisor: Dr. M.Ali Haddad /Advisor: Dr. H. Zare<br />Email:&nbsp;<a href="mailto:elhamh0520@gmail.com"><span style="font-weight: 400;">elhamh0520@gmail.com</span></a><br />Now @&nbsp;LSRL</td>
+<td style="width: 70%;"><strong>Elham Heidary</strong><br />Master student in optics and laser Physics (2020&nbsp;to now)<br />Research Topic: Nonlinear optical properties and optical limiting of quantum dots<br />Supervisor: Dr. M.Ali Haddad /Advisor: Dr. H. Zare<br />Email:&nbsp;<a href="mailto:elhamh0520@gmail.com">elhamh0520@gmail.com</a><br />Now @&nbsp;LSRL</td>
 </tr>
 <tr>
 <td style="width: 30%;">&nbsp;{% include figure.html path="assets/img/LSRL.jpg" title="example image" width="200" height="200" class="img-fluid rounded z-depth-1" %}</td>
