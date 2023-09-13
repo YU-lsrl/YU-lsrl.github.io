@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /members/
-title: members
+permalink: /reseach/
+title: research and projects
 description: 
 nav: true
 nav_order: 4
