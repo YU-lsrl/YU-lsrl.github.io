@@ -41,6 +41,50 @@ nav_order: 2
 </table>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
+
+<h2><strong>Scientific Collaborators</strong></h2>
+<table style="height: 43px; width: 1015px;">
+<tbody>
+<tr>
+<td style="width: 317.267px;">{% include figure.html path="assets/img/mkt.jpg" title="example image" width="200" height="200" class="img-fluid rounded z-depth-1" %}</td>
+<td style="width: 292.733px;">{% include figure.html path="assets/img/mkt.jpg" title="example image" width="200" height="200" class="img-fluid rounded z-depth-1" %}</td>
+<td style="width: 380px;">{% include figure.html path="assets/img/mkt.jpg" title="example image" width="200" height="200" class="img-fluid rounded z-depth-1" %}</td>
+</tr>
+<tr>
+<td style="width: 317.267px;"><strong>Prof. dr. Mohammad Kazem Tavassoli</strong><br />Professor of Atomic and Molecular Physics<br />Research Topic: Quantum Optics and Quantum technology<br />Email:&nbsp;<a href="mailto:mktavassoly@yazd.ac.ir">mktavassoly@yazd.ac.ir</a><br />Now @ LSRL</td>
+<td style="width: 292.733px;"><strong>Prof. dr. Mohammad Kazem Tavassoli</strong><br />Professor of Atomic and Molecular Physics<br />Research Topic: Quantum Optics and Quantum technology<br />Email:&nbsp;<a href="mailto:mktavassoly@yazd.ac.ir">mktavassoly@yazd.ac.ir</a><br />Now @ LSRL</td>
+<td style="width: 380px;"><strong>Prof. dr. Mohammad Kazem Tavassoli</strong><br />Professor of Atomic and Molecular Physics<br />Research Topic: Quantum Optics and Quantum technology<br />Email:&nbsp;<a href="mailto:mktavassoly@yazd.ac.ir">mktavassoly@yazd.ac.ir</a><br />Now @ LSRL</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p><span style="font-size: 22px;"><strong>PhD and Postdocs</strong></span></p>
+<table style="width: 100%; margin-right: calc(2%);">
+<tbody>
+<tr>
+<td style="width: 30%;">{% include figure.html path="assets/img/LSRL.jpg" title="example image" width="200" height="200" class="img-fluid rounded z-depth-1" %}</td>
+<td style="width: 70%;">
+<p><strong>Ebrahim Ghasemian</strong><br />Ph.D student in atomic and molecular physics&nbsp;<br />Research Topic:&nbsp;Quantum optics, Quantum computation<br />Supervisor: Prof. dr. M.K. Tavassoli&nbsp;/Advisor: Dr. M.Ali Haddad<br />Email: <a href="mailto:ebrahim.ghasemian@stu.yazd.ir">ebrahim.ghasemian@stu.yazd.ir</a><br />Now @ Rafsanjan University</p>
+</td>
+</tr>
+<tr>
+<td style="width: 30.018%;">{% include figure.html path="assets/img/LSRL.jpg" title="example image" width="200" height="200" class="img-fluid rounded z-depth-1" %}</td>
+<td style="width: 69.982%;"><strong>Mahnaz Mozaffari</strong><br />Ph.D student in atomic and molecular physics&nbsp;<br />Research Topic: Solar cells<br />Supervisor:&nbsp;Prof. dr. A. Behjat /Advisor:&nbsp;Dr. M.Ali Haddad<br />Email: <a href="mailto:mahnaz.mozaffari@stu.yazd.ac.ir">mahnaz.mozaffari@stu.yazd.ac.ir</a><br />Now @ LSRL</td>
+</tr>
+<tr>
+<td style="width: 30%;">{% include figure.html path="assets/img/LSRL.jpg" title="example image" width="200" height="200" class="img-fluid rounded z-depth-1" %}</td>
+<td style="width: 70%;"><strong>Banafshe Taji<br /></strong>Ph.D student in plasma physics&nbsp;<br />Research Topic: Atmospheric plasma<br />Supervisor: Dr. M.H. Memarian /Advisor:&nbsp;Dr. M.Ali Haddad<br />Email: <a href="mailto:b.taji@stu.yazd.ac.ir">b.taji@stu.yazd.ac.ir</a><br />Now @&nbsp;LSRL &amp; Deprtment of Plasma Physics (YU)</td>
+</tr>
+<tr>
+<td style="width: 30.0%;">{% include figure.html path="assets/img/as.jpg" title="example image" width="200" height="200" class="img-fluid rounded z-depth-1" %}</td>
+<td style="width: 70%;"><strong>Abolfazl Sajedi</strong><br />Ph.D student in optics and laser physics (2022 to now)<br />Research Topic: Nonlinear optics and optical limiter devices<br />Supervisor: Dr. M.Ali Haddad<br />Email: <a href="mailto:sajedi_abolfazl@yahoo.com">sajedi_abolfazl@yahoo.com</a><br />Now @&nbsp;LSRL</td>
+</tr>
+</tbody>
+</table>
+
+
+
+
 <p><span style="font-size: 22px;"><strong>PhD and Postdocs</strong></span></p>
 <table style="width: 100%; margin-right: calc(2%);">
 <tbody>
