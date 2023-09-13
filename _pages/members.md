@@ -11,7 +11,7 @@ nav_order: 2
 <tbody>
 <tr>
 <td style="width: 30.0%;">{% include figure.html path="assets/img/ab.jpg" title="example image" width="200" height="200" class="img-fluid rounded z-depth-1" %}</td>
-<td style="width: 70.0%;"><strong>Prof. dr. Abbas Behjat</strong><br />Professor of Atomic and Molecular Physics<br />Research Topic: Solar cell and photovoltaic energy<br />Email: <a href="mailto:abehjat@yazd.ac.ir">abehjat@yazd.ac.ir</a><br />Now @ LSRL</td>
+<td style="width: 70.0%;"><strong>Prof. dr. Abbas Behjat</strong><br />Professor of Atomic and Molecular Physics<br />Research Topic: Solar cell and photovoltaic energy<br />Email: <a href="mailto:abehjat@yazd.ac.ir">abehjat@yazd.ac.ir</a><br />Now @ LSRL and Department of Physics (YU)</td>
 </tr>
 </tbody>
 </table>
@@ -19,7 +19,7 @@ nav_order: 2
 <tbody>
 <tr>
 <td style="width: 30%;">{% include figure.html path="assets/img/mah.jpg" title="example image" width="200" height="200" class="img-fluid rounded z-depth-1" %}</td>
-<td style="width: 70%;"><strong>Dr. Mohammad Ali Haddad&nbsp;</strong><br />Assistant professor of Atomic and Molecular Physics<br />Research Topic: Laser spectroscopy and Nonlinear optics<br />Email: <a href="mailto:mahaddad@yazd.ac.ir">mahaddad@yazd.ac.ir</a><br />Now @ LSRL</td>
+<td style="width: 70%;"><strong>Dr. Mohammad Ali Haddad&nbsp;</strong><br />Assistant professor of Atomic and Molecular Physics<br />Research Topic: Laser spectroscopy and Nonlinear optics<br />Email: <a href="mailto:mahaddad@yazd.ac.ir">mahaddad@yazd.ac.ir</a><br />Now @ LSRL and Department of Physics (YU)</td>
 </tr>
 </tbody>
 </table>
@@ -29,15 +29,15 @@ nav_order: 2
 <tbody>
 <tr>
 <td style="width: 30%;">{% include figure.html path="assets/img/mkt.jpg" title="example image" width="200" height="200" class="img-fluid rounded z-depth-1" %}</td>
-<td style="width: 70%;"><strong>Prof. dr. Mohammad Kazem Tavassoli</strong><br />Professor of Atomic and Molecular Physics<br />Research Topic: Quantum Optics and Quantum technology<br />Email:&nbsp;<a href="mailto:mktavassoly@yazd.ac.ir">mktavassoly@yazd.ac.ir</a><br />Now @ LSRL</td>
+<td style="width: 70%;"><strong>Prof. dr. Mohammad Kazem Tavassoli</strong><br />Professor of Atomic and Molecular Physics<br />Research Topic: Quantum Optics and Quantum technology<br />Email:&nbsp;<a href="mailto:mktavassoly@yazd.ac.ir">mktavassoly@yazd.ac.ir</a><br />Now @ Department of Physics (YU)</td>
 </tr>
 <tr>
 <td style="width: 30%;">{% include figure.html path="assets/img/mhm.jpg" title="example image" width="200" height="200" class="img-fluid rounded z-depth-1" %}</td>
-<td style="width: 70%;"><strong>Dr. Mohammad Hossein Memarian</strong><br />Associate professor of Atmospheric Physics<br />Research Topic: Atmospheric Physics and Aeronomy<br />Email:&nbsp;<a href="mailto:memarian@yazd.ac.ir">memarian@yazd.ac.ir</a><br />Now @ LSRL</td>
+<td style="width: 70%;"><strong>Dr. Mohammad Hossein Memarian</strong><br />Associate professor of Atmospheric Physics<br />Research Topic: Atmospheric Physics and Aeronomy<br />Email:&nbsp;<a href="mailto:memarian@yazd.ac.ir">memarian@yazd.ac.ir</a><br />Now @ Department of Physics (YU)</td>
 </tr>
 <tr>
 <td style="width: 30%;">{% include figure.html path="assets/img/LSRL.jpg" title="example image" width="200" height="200" class="img-fluid rounded z-depth-1" %}</td>
-<td style="width: 70%;"><strong>Dr.&nbsp;Fatemeh Ostovari<br /></strong>Associate professor of&nbsp;Solid State Physics<br />Research Topic: Nano science and 2D nano materials<br />Email:&nbsp;<a href="mailto:ostovari@yazd.ac.ir">ostovari@yazd.ac.ir</a><br />Now @ LSRL</td>
+<td style="width: 70%;"><strong>Dr.&nbsp;Fatemeh Ostovari<br /></strong>Associate professor of&nbsp;Solid State Physics<br />Research Topic: Nano science and 2D nano materials<br />Email:&nbsp;<a href="mailto:ostovari@yazd.ac.ir">ostovari@yazd.ac.ir</a><br />Now @ Department of Physics (YU)</td>
 </tr>
 </tbody>
 </table>
