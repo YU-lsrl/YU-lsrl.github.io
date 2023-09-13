@@ -127,7 +127,7 @@ nav_order: 2
 </tr>
 <tr>
 <td style="width: 30%;">{% include figure.html path="assets/img/ns.jpg" title="example image" width="200" height="200" class="img-fluid rounded z-depth-1" %}</td>
-<td style="width: 70%;"><strong>Nafiseh Seddighi</strong><br />Master&nbsp;student in atomic and&nbsp;molecular physics (2019 to 2021)<br />Research Topic:&nbsp;Applied spectroscopy in environmental science<br />Supervisor: Dr. M.Ali Haddad /Advisor: Dr. M.H. Memarian<br />Email:&nbsp;<a href="mailto:sedighinafise94@gmail.com"><span style="font-weight: 400;">sedighinafise94@gmail.com</span></a></td>
+<td style="width: 70%;"><strong>Nafiseh Seddighi</strong><br />Master&nbsp;student in atomic and&nbsp;molecular physics (2019 to 2021)<br />Research Topic:&nbsp;Applied spectroscopy in environmental science<br />Supervisor: Dr. M.Ali Haddad /Advisor: Dr. M.H. Memarian<br />Email:&nbsp;<a href="mailto:sedighinafise94@gmail.com">sedighinafise94@gmail.com</a></td>
 </tr>
 <tr>
 <td style="width: 30%;">{% include figure.html path="assets/img/zsh.jpg" title="example image" width="200" height="200" class="img-fluid rounded z-depth-1" %}</td>
