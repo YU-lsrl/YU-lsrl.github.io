@@ -4,7 +4,7 @@ permalink: /Op/
 title: open positions
 description: 
 nav: true
-nav_order: 3
+nav_order: 4
 ---
 
 <p style="text-align: justify;">The Laser Spectroscopy Research Laboratory (LSRL) of Yazd University (YU) invites applications for a Master&rsquo;s and Doctoral positions in the area of reseach field of LSRL.&nbsp;These positions will be awarded on a competitive basis and successful candidates will receive support fully covering living expenses based on the salary on the Yazd University regulations for international students. More details about this regulation are available on <a href="https://admission.yazd.ac.ir/ ">https://admission.yazd.ac.ir/ </a></p>
