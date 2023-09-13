@@ -6,28 +6,12 @@ description:
 nav: true
 nav_order: 2
 ---
-<p><span style="font-size: 22px;"><strong>Scientific Directors</strong></span></p>
+<h3><span style="font-size: 20px;"><strong>Scientific Directors</strong></span></h3>
 <table style="width: 100%; margin-right: calc(2%);">
 <tbody>
 <tr>
 <td style="width: 30.0%;">{% include figure.html path="assets/img/ab.jpg" title="example image" width="200" height="200" class="img-fluid rounded z-depth-1" %}</td>
-<td style="width: 70%;"><strong>Prof. dr. Abbas Behjat</strong><br />Professor of Atomic and Molecular Physics<br />Research Topic: Solar cell and photovoltaic energy<br />Email: <a href="mailto:abehjat@yazd.ac.ir">abehjat@yazd.ac.ir</a><br />Now @ LSRL</td>
-</tr>
-</tbody>
-</table>
-<table style="width: 100%; margin-right: calc(2%);">
-<tbody>
-<tr>
-<td style="width: 30.0%;">{% include figure.html path="assets/img/mkt.jpg" title="example image" width="200" height="200" class="img-fluid rounded z-depth-1" %}</td>
-<td style="width: 70%;"><strong>Prof. dr. Mohammad Kazem Tavassoli</strong><br />Professor of Atomic and Molecular Physics<br />Research Topic: Quantum Optics and Quantum technology<br />Email: <a href="mailto:mktavassoly@yazd.ac.ir">mktavassoly@yazd.ac.ir</a><br />Now @ LSRL</td>
-</tr>
-</tbody>
-</table>
-<table style="width: 100%; margin-right: calc(2%);">
-<tbody>
-<tr>
-<td style="width: 30.0%;">{% include figure.html path="assets/img/mhm.jpg" title="example image" width="200" height="200" class="img-fluid rounded z-depth-1" %}</td>
-<td style="width: 70%;"><strong>Dr. Mohammad Hossein Memarian</strong><br />Associate professor of Atmospheric Physics<br />Research Topic: Atmospheric Physics and Aeronomy<br />Email: <a href="mailto:memarian@yazd.ac.ir">memarian@yazd.ac.ir</a><br />Now @ LSRL</td>
+<td style="width: 70.0%;"><strong>Prof. dr. Abbas Behjat</strong><br />Professor of Atomic and Molecular Physics<br />Research Topic: Solar cell and photovoltaic energy<br />Email: <a href="mailto:abehjat@yazd.ac.ir">abehjat@yazd.ac.ir</a><br />Now @ LSRL</td>
 </tr>
 </tbody>
 </table>
@@ -35,57 +19,30 @@ nav_order: 2
 <tbody>
 <tr>
 <td style="width: 30%;">{% include figure.html path="assets/img/mah.jpg" title="example image" width="200" height="200" class="img-fluid rounded z-depth-1" %}</td>
-<td style="width: 70%;"><strong>Dr. Mohammad Ali Haddad</strong><br />Assistant professor of Atomic and Molecular Physics<br />Research Topic: Laser spectroscopy and Nonlinear optics<br />Email: <a href="mailto:mahaddad@yazd.ac.ir">mahaddad@yazd.ac.ir</a><br />Now @ LSRL</td>
+<td style="width: 70%;"><strong>Dr. Mohammad Ali Haddad&nbsp;</strong><br />Assistant professor of Atomic and Molecular Physics<br />Research Topic: Laser spectroscopy and Nonlinear optics<br />Email: <a href="mailto:mahaddad@yazd.ac.ir">mahaddad@yazd.ac.ir</a><br />Now @ LSRL</td>
 </tr>
 </tbody>
 </table>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
-
-<h2><strong>Scientific Collaborators</strong></h2>
-<table style="height: 43px; width: 1015px;">
+<h3><span style="font-size: 20px;"><strong>Collaborators</strong></span></h3>
+<table style="height: 20px; width: 1015px;">
 <tbody>
 <tr>
-<td style="width: 317.267px;">{% include figure.html path="assets/img/mkt.jpg" title="example image" width="200" height="200" class="img-fluid rounded z-depth-1" %}</td>
-<td style="width: 292.733px;">{% include figure.html path="assets/img/mkt.jpg" title="example image" width="200" height="200" class="img-fluid rounded z-depth-1" %}</td>
-<td style="width: 380px;">{% include figure.html path="assets/img/mkt.jpg" title="example image" width="200" height="200" class="img-fluid rounded z-depth-1" %}</td>
+<td style="width: 30%;">{% include figure.html path="assets/img/mkt.jpg" title="example image" width="200" height="200" class="img-fluid rounded z-depth-1" %}</td>
+<td style="width: 70%;"><strong>Prof. dr. Mohammad Kazem Tavassoli</strong><br />Professor of Atomic and Molecular Physics<br />Research Topic: Quantum Optics and Quantum technology<br />Email:&nbsp;<a href="mailto:mktavassoly@yazd.ac.ir">mktavassoly@yazd.ac.ir</a><br />Now @ LSRL</td>
 </tr>
 <tr>
-<td style="width: 317.267px;"><strong>Prof. dr. Mohammad Kazem Tavassoli</strong><br />Professor of Atomic and Molecular Physics<br />Research Topic: Quantum Optics and Quantum technology<br />Email:&nbsp;<a href="mailto:mktavassoly@yazd.ac.ir">mktavassoly@yazd.ac.ir</a><br />Now @ LSRL</td>
-<td style="width: 292.733px;"><strong>Prof. dr. Mohammad Kazem Tavassoli</strong><br />Professor of Atomic and Molecular Physics<br />Research Topic: Quantum Optics and Quantum technology<br />Email:&nbsp;<a href="mailto:mktavassoly@yazd.ac.ir">mktavassoly@yazd.ac.ir</a><br />Now @ LSRL</td>
-<td style="width: 380px;"><strong>Prof. dr. Mohammad Kazem Tavassoli</strong><br />Professor of Atomic and Molecular Physics<br />Research Topic: Quantum Optics and Quantum technology<br />Email:&nbsp;<a href="mailto:mktavassoly@yazd.ac.ir">mktavassoly@yazd.ac.ir</a><br />Now @ LSRL</td>
-</tr>
-</tbody>
-</table>
-<p>&nbsp;</p>
-<p><span style="font-size: 22px;"><strong>PhD and Postdocs</strong></span></p>
-<table style="width: 100%; margin-right: calc(2%);">
-<tbody>
-<tr>
-<td style="width: 30%;">{% include figure.html path="assets/img/LSRL.jpg" title="example image" width="200" height="200" class="img-fluid rounded z-depth-1" %}</td>
-<td style="width: 70%;">
-<p><strong>Ebrahim Ghasemian</strong><br />Ph.D student in atomic and molecular physics&nbsp;<br />Research Topic:&nbsp;Quantum optics, Quantum computation<br />Supervisor: Prof. dr. M.K. Tavassoli&nbsp;/Advisor: Dr. M.Ali Haddad<br />Email: <a href="mailto:ebrahim.ghasemian@stu.yazd.ir">ebrahim.ghasemian@stu.yazd.ir</a><br />Now @ Rafsanjan University</p>
-</td>
-</tr>
-<tr>
-<td style="width: 30.018%;">{% include figure.html path="assets/img/LSRL.jpg" title="example image" width="200" height="200" class="img-fluid rounded z-depth-1" %}</td>
-<td style="width: 69.982%;"><strong>Mahnaz Mozaffari</strong><br />Ph.D student in atomic and molecular physics&nbsp;<br />Research Topic: Solar cells<br />Supervisor:&nbsp;Prof. dr. A. Behjat /Advisor:&nbsp;Dr. M.Ali Haddad<br />Email: <a href="mailto:mahnaz.mozaffari@stu.yazd.ac.ir">mahnaz.mozaffari@stu.yazd.ac.ir</a><br />Now @ LSRL</td>
+<td style="width: 30%;">{% include figure.html path="assets/img/mhm.jpg" title="example image" width="200" height="200" class="img-fluid rounded z-depth-1" %}</td>
+<td style="width: 70%;"><strong>Dr. Mohammad Hossein Memarian</strong><br />Associate professor of Atmospheric Physics<br />Research Topic: Atmospheric Physics and Aeronomy<br />Email:&nbsp;<a href="mailto:memarian@yazd.ac.ir">memarian@yazd.ac.ir</a><br />Now @ LSRL</td>
 </tr>
 <tr>
 <td style="width: 30%;">{% include figure.html path="assets/img/LSRL.jpg" title="example image" width="200" height="200" class="img-fluid rounded z-depth-1" %}</td>
-<td style="width: 70%;"><strong>Banafshe Taji<br /></strong>Ph.D student in plasma physics&nbsp;<br />Research Topic: Atmospheric plasma<br />Supervisor: Dr. M.H. Memarian /Advisor:&nbsp;Dr. M.Ali Haddad<br />Email: <a href="mailto:b.taji@stu.yazd.ac.ir">b.taji@stu.yazd.ac.ir</a><br />Now @&nbsp;LSRL &amp; Deprtment of Plasma Physics (YU)</td>
-</tr>
-<tr>
-<td style="width: 30.0%;">{% include figure.html path="assets/img/as.jpg" title="example image" width="200" height="200" class="img-fluid rounded z-depth-1" %}</td>
-<td style="width: 70%;"><strong>Abolfazl Sajedi</strong><br />Ph.D student in optics and laser physics (2022 to now)<br />Research Topic: Nonlinear optics and optical limiter devices<br />Supervisor: Dr. M.Ali Haddad<br />Email: <a href="mailto:sajedi_abolfazl@yahoo.com">sajedi_abolfazl@yahoo.com</a><br />Now @&nbsp;LSRL</td>
+<td style="width: 70%;"><strong>Dr.&nbsp;Fatemeh Ostovari<br /></strong>Associate professor of&nbsp;Solid State Physics<br />Research Topic: Atmospheric Physics and Aeronomy<br />Email:&nbsp;<a href="mailto:memarian@yazd.ac.ir">memarian@yazd.ac.ir</a><br />Now @ LSRL</td>
 </tr>
 </tbody>
 </table>
-
-
-
-
-<p><span style="font-size: 22px;"><strong>PhD and Postdocs</strong></span></p>
+<p>&nbsp;</p>
+<p><span style="font-size: 20px;"><strong>PhD and Postdocs</strong></span></p>
 <table style="width: 100%; margin-right: calc(2%);">
 <tbody>
 <tr>
@@ -110,7 +67,7 @@ nav_order: 2
 </table>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
-<h2><span style="font-size: 22px;"><strong>Master&rsquo;s Students</strong></span></h2>
+<h2><span style="font-size: 20px;"><strong>Master&rsquo;s Students</strong></span></h2>
 <table style="width: 100%; margin-right: calc(2%);">
 <tbody>
 <tr>
@@ -208,9 +165,8 @@ nav_order: 2
 </tbody>
 </table>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
-<h2><span style="font-size: 22px;"><strong>Undergraduate students projects</strong></span></h2>
-<p>Miss. Hamideh Beidmeshki (Nonlinear opticala properties of Binary liquide edible oil)</p>
+<p><span style="font-size: 20px;"><strong>Undergraduate students projects</strong></span></p>
+<p>Ms. Hamideh Beidmeshki (Nonlinear opticala properties of Binary liquide edible oil)</p>
 <p>Mr.&nbsp;Shayan Alizadeh (LiDAR and laser-based remote sensing)</p>
 <p>Ms. Misagh Ansari&nbsp;(Diffusion reflectance spectroscopy)</p>
 <p>Ms. Zahra Sadeghi&nbsp;(Quantum technology)</p>
