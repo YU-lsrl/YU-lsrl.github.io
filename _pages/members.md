@@ -54,7 +54,7 @@ nav_order: 2
 <td style="width: 70.00%;"><strong>Mahnaz Mozaffari</strong><br />Ph.D student in atomic and molecular physics&nbsp;(active now)<br />Research Topic: Solar cells<br />Supervisor:&nbsp;Prof. dr. A. Behjat /Advisor:&nbsp;Dr. M.Ali Haddad<br />Email: <a href="mailto:mahnaz.mozaffari@stu.yazd.ac.ir">mahnaz.mozaffari@stu.yazd.ac.ir</a><br />Now @ LSRL</td>
 </tr>
 <tr>
-<td style="width: 30%;">{% include figure.html path="assets/img/LSRL.jpg" title="example image" width="200" height="200" class="img-fluid rounded z-depth-1" %}</td>
+<td style="width: 30%;">{% include figure.html path="assets/img/bt.jpg" title="example image" width="200" height="200" class="img-fluid rounded z-depth-1" %}</td>
 <td style="width: 70%;"><strong>Banafshe Taji&nbsp;<br /></strong>Ph.D student in plasma physics&nbsp;(active now)<br />Research Topic: Atmospheric plasma<br />Supervisor: Dr. M.H. Memarian /Advisor:&nbsp;Dr. M.Ali Haddad<br />Email: <a href="mailto:b.taji@stu.yazd.ac.ir">b.taji@stu.yazd.ac.ir</a><br />Now @&nbsp;LSRL &amp; Deprtment of Plasma Physics (YU)</td>
 </tr>
 <tr>
