@@ -73,19 +73,19 @@ nav_order: 2
 </tr>
 <tr>
 <td style="width: 30%;">&nbsp;{% include figure.html path="assets/img/kp.jpg" title="example image" width="200" height="200" class="img-fluid rounded z-depth-1" %}</td>
-<td style="width: 70%;"><strong>Kianoush Pakravan</strong><br />Master student in Optics and Laser Physics (active now)<br />Research Topic:&nbsp;<span style="font-weight: 400;">Synthesis of nanoparticles by laser ablation in liquids<br />Supervisor: Dr. M.Ali Haddad /Advisor: Prof. dr. A. Behjat</span><br />Email:&nbsp;<a href="mailto:kianoush.pakravan@gmail.com">kianoush.pakravan@gmail.com</a><br />Now @&nbsp;LSRL</td>
+<td style="width: 70%;"><strong>Kianoush Pakravan</strong><br />Master student in optics and laser physics (active now)<br />Research Topic:&nbsp;<span style="font-weight: 400;">Synthesis of nanoparticles by laser ablation in liquids<br />Supervisor: Dr. M.Ali Haddad /Advisor: Prof. dr. A. Behjat</span><br />Email:&nbsp;<a href="mailto:kianoush.pakravan@gmail.com">kianoush.pakravan@gmail.com</a><br />Now @&nbsp;LSRL</td>
 </tr>
 <tr>
 <td style="width: 30%;">&nbsp;{% include figure.html path="assets/img/mg.jpg" title="example image" width="200" height="200" class="img-fluid rounded z-depth-1" %}</td>
-<td style="width: 70%;"><strong>Moein Golestanfar</strong><br />Master student in optics and laser Physics (active now)<br />Research Topic: <span style="font-weight: 400;">Nonlinear optics, Spatial self-Phase Modulation Technique, Optical limiting, Laser ablation<br />Supervisor: Dr. M.Ali Haddad /Advisor: Dr. F. Ostovari</span><br />Email: <a href="mailto:mpgolestanifar@gmail.com">mpgolestanifar@gmail.com</a><br />Now @&nbsp;LSRL</td>
+<td style="width: 70%;"><strong>Moein Golestanfar</strong><br />Master student in optics and laser physics (active now)<br />Research Topic: <span style="font-weight: 400;">Nonlinear optics, Spatial self-Phase Modulation Technique, Optical limiting, Laser ablation<br />Supervisor: Dr. M.Ali Haddad /Advisor: Dr. F. Ostovari</span><br />Email: <a href="mailto:mpgolestanifar@gmail.com">mpgolestanifar@gmail.com</a><br />Now @&nbsp;LSRL</td>
 </tr>
 <tr>
 <td style="width: 30%;">&nbsp;{% include figure.html path="assets/img/LSRL.jpg" title="example image" width="200" height="200" class="img-fluid rounded z-depth-1" %}</td>
-<td style="width: 70%;"><strong>Elham Heidary</strong><br />Master student in optics and laser Physics (active now)<br />Research Topic: Nonlinear optical properties and optical limiting of quantum dots<br />Supervisor: Dr. M.Ali Haddad /Advisor: Dr. H. Zare<br />Email:&nbsp;<a href="mailto:elhamh0520@gmail.com">elhamh0520@gmail.com</a><br />Now @&nbsp;LSRL</td>
+<td style="width: 70%;"><strong>Elham Heidary</strong><br />Master student in optics and laser physics (active now)<br />Research Topic: Nonlinear optical properties and optical limiting of quantum dots<br />Supervisor: Dr. M.Ali Haddad /Advisor: Dr. H. Zare<br />Email:&nbsp;<a href="mailto:elhamh0520@gmail.com">elhamh0520@gmail.com</a><br />Now @&nbsp;LSRL</td>
 </tr>
 <tr>
 <td style="width: 30%;">&nbsp;{% include figure.html path="assets/img/LSRL.jpg" title="example image" width="200" height="200" class="img-fluid rounded z-depth-1" %}</td>
-<td style="width: 70%;"><strong>Rezvan Babamir</strong><br />Master student in optics and laser Physics (active now)<br />Research Topic:&nbsp;Elemental analysis of kidney stones using laser based spectroscopic technique<br />Supervisor:&nbsp;Dr. M.Ali Haddad &amp; Dr. H .Tavassoli(SBU) /Advisor: Dr. M. Mosavizadeh &amp; Dr. S. Vahidi<br />Email: <a href="mailto:rezvanbabamir74@gmail.com">rezvanbabamir74@gmail.com</a><br />Now @&nbsp;LSRL</td>
+<td style="width: 70%;"><strong>Rezvan Babamir</strong><br />Master student in optics and laser physics (active now)<br />Research Topic:&nbsp;Elemental analysis of kidney stones using laser based spectroscopic technique<br />Supervisor:&nbsp;Dr. M.Ali Haddad &amp; Dr. H .Tavassoli(SBU) /Advisor: Dr. M. Mosavizadeh &amp; Dr. S. Vahidi<br />Email: <a href="mailto:rezvanbabamir74@gmail.com">rezvanbabamir74@gmail.com</a><br />Now @&nbsp;LSRL</td>
 </tr>
 <tr>
 <td style="width: 30%;">&nbsp;{% include figure.html path="assets/img/nt.jpg" title="example image" width="200" height="200" class="img-fluid rounded z-depth-1" %}</td>
