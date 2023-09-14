@@ -163,16 +163,16 @@ nav_order: 2
 </table>
 <p>&nbsp;</p>
 <p><span style="font-size: 20px;"><strong>Undergraduate students projects</strong></span></p>
-<p>Ms. Fatemeh Ghadiri-Anari (Nonlinear opticala properties of Binary liquide edible oil)-(Project sponsored by National Foundation of Elites)-(active now)</p>
-<p>Ms. Hamideh Beidmeshki (Nonlinear opticala properties of Binary liquide edible oil)-(Project sponsored by National Foundation of Elites)-(Graduated)</p>
-<p>Mr.&nbsp;Shayan Alizadeh (LiDAR and laser-based remote sensing)-(Graduated)</p>
-<p>Ms. Misagh Ansari&nbsp;(Diffusion reflectance spectroscopy)-(Graduated)</p>
-<p>Ms. Zahra Sadeghi&nbsp;(Quantum technology)-(Graduated)</p>
-<p>Mr. Nosratollah&nbsp;<span class="tmm_lname">Mohammadi (</span>Designing compact spectrometer)-(Graduated)</p>
-<p><span class="tmm_fname">Ms. Maria&nbsp;</span><span class="tmm_lname">Gharehasanloo (</span>THz spectroscopy)-(Graduated)</p>
-<p><span class="tmm_fname">Mr. Hamid&nbsp;</span><span class="tmm_lname">Hasani (</span>Designing a compact spectrometer)-(Graduated)</p>
-<p><span class="tmm_fname">Mr. Davood&nbsp;</span><span class="tmm_lname">Maripour (</span>Designing a compact spectrometer)-(Graduated)</p>
-<p>Mr. Mohammad Reza Nasirzadeh (Data mining applications in spectroscopy)-(Graduated)</p>
-<p><span class="tmm_fname">Mr. Mustafa&nbsp;</span><span class="tmm_lname">Hashemi&nbsp;</span>-(Graduated)</p>
-<p><span class="tmm_fname">Ms. S. Zohre&nbsp;</span><span class="tmm_lname">Zamanian</span>-(Graduated)</p>
+<p><strong>Ms. Fatemeh Ghadiri-Anari</strong> (Nonlinear opticala properties of Binary liquide edible oil)-(Project sponsored by National Foundation of Elites)-(active now)</p>
+<p><strong>Ms. Hamideh Beidmeshki</strong> (Nonlinear opticala properties of Binary liquide edible oil)-(Project sponsored by National Foundation of Elites)-(Graduated)</p>
+<p><strong>Mr.&nbsp;Shayan Alizadeh</strong> (LiDAR and laser-based remote sensing)-(Graduated)</p>
+<p><strong>Ms. Misagh Ansari</strong>&nbsp;(Diffusion reflectance spectroscopy)-(Graduated)</p>
+<p><strong>Ms. Zahra Sadeghi</strong>&nbsp;(Quantum technology)-(Graduated)</p>
+<p><strong>Mr. Nosratollah&nbsp;</strong><span class="tmm_lname"><strong>Mohammadi</strong> (</span>Designing compact spectrometer)-(Graduated)</p>
+<p><strong><span class="tmm_fname">Ms. Maria&nbsp;</span></strong><span class="tmm_lname"><strong>Gharehasanloo</strong> (</span>THz spectroscopy)-(Graduated)</p>
+<p><strong><span class="tmm_fname">Mr. Hamid&nbsp;</span></strong><span class="tmm_lname"><strong>Hasani</strong> (</span>Designing a compact spectrometer)-(Graduated)</p>
+<p><strong><span class="tmm_fname">Mr. Davood&nbsp;</span></strong><span class="tmm_lname"><strong>Maripour</strong> (</span>Designing a compact spectrometer)-(Graduated)</p>
+<p><strong>Mr. Mohammad Reza Nasirzadeh</strong> (Data mining applications in spectroscopy)-(Graduated)</p>
+<p><strong><span class="tmm_fname">Mr. Mustafa&nbsp;</span></strong><span class="tmm_lname"><strong>Hashemi</strong>&nbsp;</span>-(Graduated)</p>
+<p><strong><span class="tmm_fname">Ms. S. Zohre&nbsp;</span><span class="tmm_lname">Zamanian</span></strong>-(Graduated)</p>
 <div class="tmm_member">&nbsp;</div>
