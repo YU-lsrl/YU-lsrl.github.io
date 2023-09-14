@@ -50,7 +50,7 @@ nav_order: 2
 <td style="width: 70.00%;"><strong>Abolfazl Sajedi<br /></strong>Ph.D student in optics and laser physics (active now)<br />Research Topic: Nonlinear optics and optical limiter devices<br />Supervisor: Dr. M.Ali Haddad<br />Email:&nbsp;<a href="mailto:sajedi_abolfazl@yahoo.com">sajedi_abolfazl@yahoo.com</a><br />Now @&nbsp;LSRL</td>
 </tr>
 <tr>
-<td style="width: 30.00%;">{% include figure.html path="assets/img/LSRL.jpg" title="example image" width="200" height="200" class="img-fluid rounded z-depth-1" %}</td>
+<td style="width: 30.00%;">{% include figure.html path="assets/img/mm.jpg" title="example image" width="200" height="200" class="img-fluid rounded z-depth-1" %}</td>
 <td style="width: 70.00%;"><strong>Mahnaz Mozaffari</strong><br />Ph.D student in atomic and molecular physics&nbsp;(active now)<br />Research Topic: Solar cells<br />Supervisor:&nbsp;Prof. dr. A. Behjat /Advisor:&nbsp;Dr. M.Ali Haddad<br />Email: <a href="mailto:mahnaz.mozaffari@stu.yazd.ac.ir">mahnaz.mozaffari@stu.yazd.ac.ir</a><br />Now @ LSRL</td>
 </tr>
 <tr>
