@@ -100,8 +100,8 @@ nav_order: 2
 <td style="width: 70%;"><strong>Fatemeh Zare</strong><br />Master&nbsp;student in polymer engineering (Graduated:2023)<br />Research Topic:&nbsp;Graphene application in polymer science<br />Supervisor: Dr. M. Tavakkoli/Advisor:&nbsp;Dr. M.Ali Haddad</td>
 </tr>
 <tr>
-<td style="width: 30%;">&nbsp;{% include figure.html path="assets/img/LSRL.jpg" title="example image" width="200" height="200" class="img-fluid rounded z-depth-1" %}</td>
-<td style="width: 70%;"><strong>Farzaneh Zare Mehrabadi</strong><br />Master&nbsp;student in optics and laser Physics (Graduated:2023)<br />Research Topic: Photo-thermal therapy in cancer treatment<br />Supervisor: Dr. M.Ali Haddad &amp; Dr. N. S. Hossini-Motlagh /Adviso: Prof. dr. A. Behjat<br />Now @ Yazd Reproductive Sciences Institute</td>
+<td style="width: 30%;">&nbsp;{% include figure.html path="assets/img/fzm.jpg" title="example image" width="200" height="200" class="img-fluid rounded z-depth-1" %}</td>
+<td style="width: 70%;"><strong>Farzaneh Zare Mehrabadi</strong><br />Master&nbsp;student in optics and laser Physics (Graduated:2023)<br />Research Topic: Photo-thermal therapy in cancer treatment<br />Supervisor: Dr. M.Ali Haddad &amp; Dr. N. S. Hossini-Motlagh /Adviso: Prof. dr. A. Behjat<br />Email: <a href="mailto:farzaneh.mehr75@gmail.com">farzaneh.mehr75@gmail.com</a><br />Now @ Yazd Reproductive Sciences Institute</td>
 </tr>
 <tr>
 <td style="width: 30%;">&nbsp;{% include figure.html path="assets/img/anh.jpg" title="example image" width="200" height="200" class="img-fluid rounded z-depth-1" %}</td>
