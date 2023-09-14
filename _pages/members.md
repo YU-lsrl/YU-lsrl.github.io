@@ -105,7 +105,7 @@ nav_order: 2
 </tr>
 <tr>
 <td style="width: 30%;">&nbsp;{% include figure.html path="assets/img/anh.jpg" title="example image" width="200" height="200" class="img-fluid rounded z-depth-1" %}</td>
-<td style="width: 70%;"><strong>Amir Namegh Hasan</strong><br />Master student in&nbsp;optics and laser Physics (Graduated:2023)<br />Research Topic: Nonlinear optics application&nbsp;in&nbsp;authentication process of food indudtry<br />Supervisor: Dr. M.Ali Haddad&nbsp;<br />Email: <a href="mailto:amirnamiq@gmail.com">amirnamiq@gmail.com</a><br />Now @ Department of Physics at University of Sulaimani, Iraq</td>
+<td style="width: 70%;"><strong>Amir Namiq Hassan</strong><br />Master student in&nbsp;optics and laser Physics (Graduated:2023)<br />Research Topic: Nonlinear optics application&nbsp;in&nbsp;authentication process of food indudtry<br />Supervisor: Dr. M.Ali Haddad&nbsp;<br />Email: <a href="mailto:amirnamiq@gmail.com">amirnamiq@gmail.com</a><br />Now @ Department of Physics at University of Sulaimani, Iraq</td>
 </tr>
 <tr>
 <td style="width: 30%;">&nbsp;{% include figure.html path="assets/img/LSRL.jpg" title="example image" width="200" height="200" class="img-fluid rounded z-depth-1" %}</td>
