@@ -162,7 +162,7 @@ nav_order: 2
 </tbody>
 </table>
 <p>&nbsp;</p>
-<p><span style="font-size: 20px;"><strong>Undergraduate students projects</strong></span></p>
+<p><span style="font-size: 20px;"><strong>Undergraduate students</strong></span></p>
 <p><strong>Ms. Fatemeh Ghadiri-Anari</strong> (Nonlinear opticala properties of Binary liquide edible oil)-(Project sponsored by National Foundation of Elites)-(active now)</p>
 <p><strong>Ms. Hamideh Beidmeshki</strong> (Nonlinear opticala properties of Binary liquide edible oil)-(Project sponsored by National Foundation of Elites)-(Graduated)</p>
 <p><strong>Mr.&nbsp;Shayan Alizadeh</strong> (LiDAR and laser-based remote sensing)-(Graduated)</p>
