@@ -42,7 +42,7 @@ nav_order: 2
 </tbody>
 </table>
 <p>&nbsp;</p>
-<p><span style="font-size: 20px;"><strong>PhD and Postdocs</strong></span></p>
+<p><span style="font-size: 20px;"><strong>PhD Students and Postdocs</strong></span></p>
 <table style="width: 100%; margin-right: calc(2%);">
 <tbody>
 <tr>
