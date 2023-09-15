@@ -137,7 +137,8 @@ nav_order: 2
 </tr>
 <tr>
 <td style="width: 30%;">{% include figure.html path="assets/img/sr.jpg" title="example image" width="200" height="200" class="img-fluid rounded z-depth-1" %}</td>
-<td style="width: 70%;"><strong>Samane Raji</strong><br />Master&nbsp;student in atomic and&nbsp;molecular physics (Graduated:2019)<br />Research Topic: Nonlinear Optics application in medical diagnostics<br />Supervisor:&nbsp;Dr. M.Ali Haddad /Advisor:&nbsp;Prof. dr. Abbas Behjat<br />Email: <a href="mailto:samaneraji@gmail.com">samaneraji@gmail.com</a><br />Now @&nbsp;Valadolid University, Spain</td>
+<td style="width: 70%;"><strong>Samane Raji</strong><br />Master&nbsp;student in atomic and&nbsp;molecular physics (Graduated:2019)<br />Research Topic: Experimental study of nonlinear optical properties of biomaterials<br />Supervisor:&nbsp;Dr. M.Ali Haddad /Advisor:&nbsp;Prof. dr. Abbas Behjat<br />Email: <a href="mailto:samaneraji@gmail.com">samaneraji@gmail.com</a><br />Now @&nbsp;PhD student of astronomy in Valladolid university, Spain
+</td>
 </tr>
 <tr>
 <td style="width: 30%;">{% include figure.html path="assets/img/paa.jpg" title="example image" width="200" height="200" class="img-fluid rounded z-depth-1" %}</td>
